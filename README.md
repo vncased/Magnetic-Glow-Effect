@@ -65,7 +65,14 @@ python3 main.py
 
 ---
 
+## Вы можете сделать все по другому, это лишь пример / You can do everything differently, this is just an example
+**tll**
 ![tll](img/tll.png)
+---
+**cll**
 ![cll](img/cll.png)
+---
+**bll**
 ![bll](img/bll.png)
+---
 
