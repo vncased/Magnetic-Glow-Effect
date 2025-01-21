@@ -62,3 +62,10 @@ python main.py
 ```bash
 python3 main.py
 ```
+
+---
+
+![tll](img/tll.png)
+![cll](img/cll.png)
+![bll](img/bll.png)
+
