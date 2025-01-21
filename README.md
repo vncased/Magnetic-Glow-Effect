@@ -1,5 +1,7 @@
 # Magnetic-Glow-Effect
 
+---
+
 # Описание / Description
 **Анимация абстрактных сетей / Animation of abstract networks**
 ## Использование / Usage
@@ -16,7 +18,7 @@
 **Введите туда либо "bll", либо "tll", либо "cll" / Enter "bll", or "tll", or "cll"**
 
 **Нажмите Enter и у вас изменится вид, стандартная тема "tll" / Will Enter and your view will change, the standard topic "tll"**
-
+---
 ## Установка / Installation
 
 **Клонируйте репозиторий / Clone the repo**
