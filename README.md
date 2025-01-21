@@ -10,7 +10,7 @@
 
 **После этого появится столько сетей, сколько вы ввели / After that, as many networks will appear as you introduced**
 
-### Изменение вида / Changing the species**
+### Изменение вида / Changing the species
 **Нажмите на S, чтобы получить поле ввода / Click S to get the input field**
 
 **Введите туда либо "bll", либо "tll", либо "cll" / Enter "bll", or "tll", or "cll"**
