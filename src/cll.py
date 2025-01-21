@@ -151,9 +151,9 @@ while running:
                     text = ""  
                     
                     if platform.system() == "Linux":
-                        os.system('python3 tll.py')
+                        os.system('python3 src/tll.py')
                     elif platform.system() == "Windows":
-                        os.system("python tll.py")
+                        os.system("python src/tll.py")
                     pygame.quit()
                     sys.exit()   
                 elif text.lower() == "bll":
@@ -162,9 +162,9 @@ while running:
                     text = ""  
                     
                     if platform.system() == "Linux":
-                        os.system('python3 bll.py')
+                        os.system('python3 src/bll.py')
                     elif platform.system() == "Windows":
-                        os.system("python bll.py")
+                        os.system("python src/bll.py")
                     pygame.quit()
                     sys.exit()    
                 try:
