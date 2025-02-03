@@ -23,7 +23,7 @@
 
 **Клонируйте репозиторий / Clone the repo**
 ```bash
-git clone https://github.com/vncased/Magnetic-Glow-Effect.git
+git clone https://github.com/yinmus/Magnetic-Glow-Effect.git
 ```
 **Перейдите в директорию / Go to the directory**
 ```bash
